@@ -80,7 +80,8 @@ Si quieres, puedo hacer algo que suele ayudar muchísimo a escritores de mundos 
 > - Supuestos matemáticos Tablas y gráficos
 > - Simulaciones paso a paso"
 
-Formato recomendado por Copilot:
+
+## Formato recomendado por Copilot:
 
 ### 🔹 Prompt 01 — Generación de datos demográficos base
 > “Genera una distribución poblacional inicial para la ciudad ficticia de Valdoria…”

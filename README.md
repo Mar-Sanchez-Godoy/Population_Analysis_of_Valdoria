@@ -1,17 +1,17 @@
-# Population Analysis of Valdoria
+# Population Analysis of Valdoria  🏙️
 Citywide Demographic and Logistics Distribution Analysis – Simulation Model
 
-Population & Economic Analysis of Valdoria – Simulation Workflow Using ChatGPT
+## Population & Economic Analysis of Valdoria – Simulation Workflow Using ChatGPT
 
 A data‑driven exploration of Valdoria, a fictional city from the novel Hambruna, using analytical prompts, simulations, and iterative reasoning.
 
-Descripción del Proyecto
+### Descripción del Proyecto
 
 Este proyecto documenta el proceso completo de análisis demográfico, económico y logístico de Valdoria, una ciudad ficticia creada para la novela "Hambruna" (enlace próximamente).
 
 El objetivo es mostrar cómo se puede utilizar ChatGPT como herramienta de apoyo para generar modelos, hipótesis, cálculos y simulaciones urbanas.
 
-Incluye:
+### Incluye:
 
 - Generación de datos sintéticos
 
@@ -23,13 +23,13 @@ Incluye:
 
 - Visualizaciones y razonamiento paso a paso
 
-Contexto Narrativo 
+### Contexto Narrativo 
 
 Valdoria es una ciudad portuaria situada en un valle fértil, afectada por tensiones económicas y migratorias en el universo narrativo de Hambruna.
 
 Este proyecto no solo analiza la ciudad, sino que también explica cómo se construye su realidad mediante datos simulados.
 
-Prompts Utilizados
+### Prompts Utilizados
 
 - Prompt inicial
 
@@ -42,7 +42,7 @@ Prompts Utilizados
 - Prompts para simulaciones
 
 
-Formato utilizado (dado el contexto previo)
+### Formato utilizado (dado el contexto previo)
 
 ### 🔹 Prompt 01 — Generación de datos demográficos base
 > “Cuanto estimarías que hay entre casas, personas, cultivos y salas del castillo con almacenaje de alimento para la ciudad?”
@@ -80,6 +80,9 @@ Si quieres, puedo hacer algo que suele ayudar muchísimo a escritores de mundos 
 > - Supuestos matemáticos Tablas y gráficos
 > - Simulaciones paso a paso"
 
+### 🔹 Prompt 07 - Archivos CSV
+"Con el plano economico y cada modelo, arma tablas CSV"
+
 
 ## Formato recomendado por Copilot:
 
@@ -93,7 +96,7 @@ Si quieres, puedo hacer algo que suele ayudar muchísimo a escritores de mundos 
 > “Modela la distribución de mercancías y rutas de transporte…”
 
 
-Imágenes del Proceso
+## Imágenes del Proceso
 
 - Capturas de ChatGPT
 
@@ -105,16 +108,8 @@ Imágenes del Proceso
 
 - Visualizaciones de distribución poblacional
 
-Tiempo de Respuesta
 
-- Tiempo promedio por iteración
-
-- Tiempo total del proyecto
-
-- Comparación entre iteraciones rápidas vs. profundas
-
-
-Precisión de los Datos
+## Precisión de los Datos
 
 - Qué partes son inventadas
 
@@ -126,7 +121,7 @@ Precisión de los Datos
 
 
 
-Análisis Técnico y Matemático
+## Análisis Técnico y Matemático
 
 Incluye:
 
@@ -140,8 +135,6 @@ Incluye:
 
 - Simulaciones paso a paso
 
-
-Con el plano economico y cada modelo, arma tablas CSV
 
 
 Conclusiones

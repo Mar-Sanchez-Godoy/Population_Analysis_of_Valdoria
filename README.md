@@ -247,7 +247,11 @@ Potential extensions of this project:
 - Geospatial modeling of trade routes  
 - Integration with additional narrative elements of *Hambruna*
 
+--
 
+# Castellano
+
+--
 
 ### Descripción del Proyecto
 

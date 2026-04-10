@@ -42,7 +42,45 @@ Prompts Utilizados
 - Prompts para simulaciones
 
 
-Formato recomendado:
+Formato utilizado (dado el contexto previo)
+
+### 🔹 Prompt 01 — Generación de datos demográficos base
+> “Cuanto estimarías que hay entre casas, personas, cultivos y salas del castillo con almacenaje de alimento para la ciudad?”
+
+### 🔹 Prompt 02 — Análisis económico
+> “Dame cifras y todo esto ármalo en una tabla o varias tablas para analizarlo gráficamente."
+
+### 🔹 Prompt 03 — Logística urbana
+> “Modela la distribución de mercancías y rutas de transporte…”
+
+### 🔹 Prompt 04 — Logística urbana
+Respuesta ChatGPT: 
+
+Si quieres, puedo hacer algo que suele ayudar muchísimo a escritores de mundos cerrados:
+
+📊 Un plano económico de Valdoria
+(con flujo de comida, trabajo y poder dentro de la ciudad).
+
+> “Como sería?"
+
+### 🔹 Prompt 05 — Explicabilidad
+
+> "Como es una ciudad ficticia, puedes explicar:
+> - Qué partes son inventadas
+> - Qué partes se basan en modelos reales
+> - Qué supuestos se usaron
+> - Qué limitaciones tiene el modelo"
+
+### 🔹 Prompt 06 - Analisis técnico
+
+> - "Análisis Técnico y Matemático.
+> - Aquí es donde brillo como BI Analyst:
+> - Incluye:
+> - Fórmulas usadas Modelos estadísticos
+> - Supuestos matemáticos Tablas y gráficos
+> - Simulaciones paso a paso"
+
+Formato recomendado por Copilot:
 
 ### 🔹 Prompt 01 — Generación de datos demográficos base
 > “Genera una distribución poblacional inicial para la ciudad ficticia de Valdoria…”
@@ -101,6 +139,8 @@ Incluye:
 
 - Simulaciones paso a paso
 
+
+Con el plano economico y cada modelo, arma tablas CSV
 
 
 Conclusiones

@@ -1,0 +1,8 @@
+Capacidad de almacenamiento
+
+tipo_instalacion,cantidad,capacidad_toneladas_unidad,capacidad_total_toneladas
+graneros,6,40,240
+camaras_frias,2,30,60
+banco_semillas,1,5,5
+reserva_estrategica,1,30,30
+total,,,335

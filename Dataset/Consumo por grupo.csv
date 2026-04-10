@@ -1,0 +1,10 @@
+Consumo por grupo
+
+grupo,personas,consumo_kg_dia_persona,consumo_total_kg_dia
+trabajadores,1100,1.1,1210
+ninos,300,0.7,210
+estudiantes,250,0.9,225
+ancianos,200,0.8,160
+guardias,120,1.2,144
+administracion,130,1.0,130
+total,,,2079

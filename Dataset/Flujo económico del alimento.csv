@@ -1,0 +1,8 @@
+Flujo económico del alimento
+
+etapa,lugar,actores,volumen_t_anual
+produccion_interior,invernaderos,agricultores,720
+entrada_exterior,puertas_ciudad,custodia_caravanas,240
+almacenamiento,castillo_graneros,administradores,335
+distribucion,mercado_central,comerciantes,960
+consumo,barrios_residenciales,poblacion,840

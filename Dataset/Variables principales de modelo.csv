@@ -1,0 +1,7 @@
+variable,simbolo,valor,unidad
+poblacion,P,2100,personas
+consumo_per_capita,C,0.4,toneladas_persona_anio
+produccion_interior,Pi,720,toneladas_anio
+importacion_exterior,Pe,240,toneladas_anio
+produccion_total,Pt,960,toneladas_anio
+reserva_almacenada,R,335,toneladas

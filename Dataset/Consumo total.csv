@@ -1,0 +1,7 @@
+Consumo total
+
+concepto,formula,resultado,unidad
+consumo_total_anual,P*C,840,toneladas
+consumo_mensual,Tc/12,70,toneladas
+consumo_diario,Tc/365,2.30,toneladas
+consumo_diario_kg,Tc/365*1000,2300,kg

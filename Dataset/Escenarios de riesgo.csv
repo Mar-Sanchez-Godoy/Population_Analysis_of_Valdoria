@@ -1,0 +1,7 @@
+Escenarios de riesgo
+
+escenario,produccion_total_t,consumo_t,indice_seguridad_F,resultado
+normal,960,840,1.14,estable
+perdida_invernadero,780,840,0.93,racionamiento
+bloqueo_exterior,720,840,0.86,hambruna
+crecimiento_10_anios,960,975,0.98,tension
